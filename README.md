@@ -1,1 +1,1 @@
-location details tracking use reverse geocoding for the sms 
+location details tracking using  reverse geocoding for the sms 
